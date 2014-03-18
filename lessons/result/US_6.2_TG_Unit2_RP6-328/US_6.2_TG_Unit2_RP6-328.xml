@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="JumpMathC.xsl"?>
+<root>
+<lesson id="1" name="2">
+	<objective>Objective of the lesson</objective>
+	<prerequisites>
+		<prerequisite name="" />
+	</prerequisites>
+	<module name="Module name"></module>
+	<standards></standards>
+	<pages></pages>
+</lesson>
+</root>
